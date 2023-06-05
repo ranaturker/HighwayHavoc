@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - mainCar
+  - Sollama
+  - tree
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3072005785
+    locked: 0
+  - name: Way
+    uniqueID: 842089853
+    locked: 0
+  - name: CarButNpc
+    uniqueID: 2362950123
+    locked: 0
+  - name: mainCar
+    uniqueID: 1657450929
+    locked: 0
+  - name: tree
+    uniqueID: 4062603985
+    locked: 0
+  - name: Human
+    uniqueID: 1293953641
+    locked: 0
+  - name: lamb
+    uniqueID: 75169389
+    locked: 0
+  - name: score button
+    uniqueID: 2180077329
+    locked: 0
+  - name: Vinyet
+    uniqueID: 2323104371
+    locked: 0
+  - name: Canvas
+    uniqueID: 823360973
+    locked: 0
